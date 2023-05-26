@@ -1,3 +1,4 @@
 venv/
 logs/
 RegressorProject.egg-info/
+__pycache__/
